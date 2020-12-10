@@ -1,6 +1,6 @@
 # Short Description
 
-This code scrapes tweets from Armenia and Azerbaijan's Ministry of Foreign Affairs (MFA) accounts. The code cleans and preprocesses the data, categorizes the tweets based on their content (whether they are about their authoring country or their adversary), and conducts distinct words and sentiment analysis. It then visualizes the results through wordclouds, frequency plots, and time-series graphs.
+This code scrapes tweets from Armenia and Azerbaijan's Ministry of Foreign Affairs (MFA) accounts. The code cleans and preprocesses the data, categorizes the tweets based on their content (whether they are about their authoring country or their adversary), and conducts distinct words and sentiment analysis. It then visualizes the results through wordclouds, frequency plots, and time-series sentiment graphs.
 
 # Dependencies
 
